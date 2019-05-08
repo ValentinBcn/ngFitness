@@ -1,0 +1,15 @@
+.new-training{
+    padding:30px;
+
+}
+
+mat-card{
+    padding: 2rem 1rem;
+}
+span.title{
+    font-family: Segoe UI;
+    text-align: center;
+    font-weight: 100;
+    font-size: 19px;
+    text-transform: uppercase;
+}
